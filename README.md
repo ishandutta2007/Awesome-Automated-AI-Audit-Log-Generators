@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Automated-AI-Audit-Log-Generators/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-AI-Audit-Log-Generators?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Automated-AI-Audit-Log-Generators/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-AI-Audit-Log-Generators?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-AI-Audit-Log-Generators/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Automated-AI-Audit-Log-Generators?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-AI-Audit-Log-Generators/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Automated-AI-Audit-Log-Generators?style=flat-square&color=red" alt="GitHub Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-AI-Audit-Log-Generators/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
@@ -78,45 +78,45 @@ The table below presents leading enterprise SaaS products for AI audit log gener
 
 ## 💻 Open-Source GitHub Projects
 
-The following curated open-source projects provide verifiable audit trails, agent tool-call logging, OpenTelemetry tracing, and compliance reporting. **Sorted descending by GitHub star count**:
+The following curated open-source projects provide verifiable audit trails, agent tool-call logging, OpenTelemetry tracing, and compliance reporting. **Sorted descending by GitHub Stars_Count**:
 
-1. **[Langfuse](https://github.com/langfuse/langfuse)** [![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)
+1. **[Langfuse](https://github.com/langfuse/langfuse)** [![GitHub_Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)
    - *Open-source LLM engineering and observability platform.* Captures full nested traces, tool executions, cost metrics, and user feedback into immutable audit logs. Ideal for debugging, monitoring, and compliance reviews in complex LLM pipelines.
-2. **[Promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers)
+2. **[Promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub_Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers)
    - *CLI and library for LLM application evaluation, automated red-teaming, and security regression auditing.* Generates deterministic compliance test reports, vulnerability scans, and guardrail validations for production AI models.
-3. **[DeepEval](https://github.com/confident-ai/deepeval)** [![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white)](https://github.com/confident-ai/deepeval/stargazers)
+3. **[DeepEval](https://github.com/confident-ai/deepeval)** [![GitHub_Stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white)](https://github.com/confident-ai/deepeval/stargazers)
    - *Production-grade evaluation framework for LLM applications.* Features unit testing for hallucinations, bias, and answer relevancy, outputting structured audit records and compliance metrics across CI/CD pipelines.
-4. **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** [![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)
+4. **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** [![GitHub_Stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)
    - *Open-source AI observability and evaluation platform built on OpenTelemetry and OpenInference.* Provides distributed tracing, agent step evaluation, and RAG audit visualizations with nested spans and latency breakdown.
-5. **[Guardrails AI](https://github.com/guardrails-ai/guardrails)** [![GitHub stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social&color=white)](https://github.com/guardrails-ai/guardrails/stargazers)
+5. **[Guardrails AI](https://github.com/guardrails-ai/guardrails)** [![GitHub_Stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social&color=white)](https://github.com/guardrails-ai/guardrails/stargazers)
    - *Adding structured validation, security guardrails, and compliance enforcement to LLM outputs.* Validates against toxicity, PII leaks, and schema non-compliance while recording verifiable runtime validation audit logs.
-6. **[OpenLLMetry (Traceloop)](https://github.com/traceloop/openllmetry)** [![GitHub stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social&color=white)](https://github.com/traceloop/openllmetry/stargazers)
+6. **[OpenLLMetry (Traceloop)](https://github.com/traceloop/openllmetry)** [![GitHub_Stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social&color=white)](https://github.com/traceloop/openllmetry/stargazers)
    - *OpenTelemetry-based auto-instrumentation for AI agents and LLMs (Apache-2.0).* Emits standard `gen_ai` audit spans compatible with any OpenTelemetry collector, enabling portable, tamper-evident trace persistence.
-7. **[Giskard](https://github.com/Giskard-AI/giskard-oss)** [![GitHub stars](https://img.shields.io/github/stars/Giskard-AI/giskard-oss?style=social&color=white)](https://github.com/Giskard-AI/giskard-oss/stargazers)
+7. **[Giskard](https://github.com/Giskard-AI/giskard-oss)** [![GitHub_Stars](https://img.shields.io/github/stars/Giskard-AI/giskard-oss?style=social&color=white)](https://github.com/Giskard-AI/giskard-oss/stargazers)
    - *Testing and auditing framework for ML models and LLMs.* Detects performance vulnerabilities, hallucinations, and biases; automatically generates comprehensive audit reports for EU AI Act compliance.
-8. **[TruLens](https://github.com/truera/trulens)** [![GitHub stars](https://img.shields.io/github/stars/truera/trulens?style=social&color=white)](https://github.com/truera/trulens/stargazers)
+8. **[TruLens](https://github.com/truera/trulens)** [![GitHub_Stars](https://img.shields.io/github/stars/truera/trulens?style=social&color=white)](https://github.com/truera/trulens/stargazers)
    - *Evaluation and instrumented tracking tool for LLM and agentic applications.* Provides feedback functions, structured audit trails, and programmatic verification of RAG triads (context relevance, groundedness, answer relevance).
-9. **[whylogs](https://github.com/whylabs/whylogs)** [![GitHub stars](https://img.shields.io/github/stars/whylabs/whylogs?style=social&color=white)](https://github.com/whylabs/whylogs/stargazers)
+9. **[whylogs](https://github.com/whylabs/whylogs)** [![GitHub_Stars](https://img.shields.io/github/stars/whylabs/whylogs?style=social&color=white)](https://github.com/whylabs/whylogs/stargazers)
    - *Open standard for statistical data and AI profiling.* Generates lightweight, mergeable log profiles to audit data drift, model inputs, and behavioral degradation without storing raw sensitive payloads.
-10. **[OpenTelemetry GenAI Semantic Conventions](https://github.com/open-telemetry/semantic-conventions)** [![GitHub stars](https://img.shields.io/github/stars/open-telemetry/semantic-conventions?style=social&color=white)](https://github.com/open-telemetry/semantic-conventions/stargazers)
+10. **[OpenTelemetry GenAI Semantic Conventions](https://github.com/open-telemetry/semantic-conventions)** [![GitHub_Stars](https://img.shields.io/github/stars/open-telemetry/semantic-conventions?style=social&color=white)](https://github.com/open-telemetry/semantic-conventions/stargazers)
     - *Vendor-neutral standard attribute specifications for model invocations, vector searches, and agent tool execution logs.* Forms the technical cornerstone for portable, standardized audit logging across AI infrastructure.
-11. **[AI Verify (VerifyWise Foundation)](https://github.com/aiverify-foundation/aiverify)** [![GitHub stars](https://img.shields.io/github/stars/aiverify-foundation/aiverify?style=social&color=white)](https://github.com/aiverify-foundation/aiverify/stargazers)
+11. **[AI Verify (VerifyWise Foundation)](https://github.com/aiverify-foundation/aiverify)** [![GitHub_Stars](https://img.shields.io/github/stars/aiverify-foundation/aiverify?style=social&color=white)](https://github.com/aiverify-foundation/aiverify/stargazers)
     - *AI governance testing framework and software toolkit by the AI Verify Foundation.* Evaluates AI systems against international governance frameworks (EU AI Act, ISO 42001) with test suites for fairness, explainability, and robustness.
-12. **[Vaara](https://github.com/vaaraio/vaara)** [![GitHub stars](https://img.shields.io/github/stars/vaaraio/vaara?style=social&color=white)](https://github.com/vaaraio/vaara/stargazers)
+12. **[Vaara](https://github.com/vaaraio/vaara)** [![GitHub_Stars](https://img.shields.io/github/stars/vaaraio/vaara?style=social&color=white)](https://github.com/vaaraio/vaara/stargazers)
     - *Governance and verifiable evidence layer for autonomous AI agents (AGPL-3.0).* Checks actions against defined policy, produces hash-chained tamper-evident audit trails, and enables offline verification using public keys. Includes adapters for LangChain, CrewAI, and OpenAI Agents SDK.
-13. **[GuardClaw](https://github.com/TobyGE/GuardClaw)** [![GitHub stars](https://img.shields.io/github/stars/TobyGE/GuardClaw?style=social&color=white)](https://github.com/TobyGE/GuardClaw/stargazers)
+13. **[GuardClaw](https://github.com/TobyGE/GuardClaw)** [![GitHub_Stars](https://img.shields.io/github/stars/TobyGE/GuardClaw?style=social&color=white)](https://github.com/TobyGE/GuardClaw/stargazers)
     - *Enterprise cryptographic execution evidence for AI agents.* Converts LLM tool calls and decisions into tamper-evident, Ed25519-signed, mathematically verifiable evidence. Features RFC 8785 canonicalization, causal hash DAGs, out-of-process signing daemons, and Merkle inclusion proofs.
-14. **[AuditWeave](https://github.com/vimalnakrani08/auditweave)** [![GitHub stars](https://img.shields.io/github/stars/vimalnakrani08/auditweave?style=social&color=white)](https://github.com/vimalnakrani08/auditweave/stargazers)
+14. **[AuditWeave](https://github.com/vimalnakrani08/auditweave)** [![GitHub_Stars](https://img.shields.io/github/stars/vimalnakrani08/auditweave?style=social&color=white)](https://github.com/vimalnakrani08/auditweave/stargazers)
     - *Tamper-evident, auditor-navigable evidence trails for AI-assisted workflows.* Records source documents, retrievals, transformations, inferences, and human approvals into a single SHA-256 hash-chained append-only ledger (stdlib only, zero runtime dependencies).
-15. **[Arcaeon Audit](https://github.com/Arcaeon-io/arcaeon-audit)** [![GitHub stars](https://img.shields.io/github/stars/Arcaeon-io/arcaeon-audit?style=social&color=white)](https://github.com/Arcaeon-io/arcaeon-audit/stargazers)
+15. **[Arcaeon Audit](https://github.com/Arcaeon-io/arcaeon-audit)** [![GitHub_Stars](https://img.shields.io/github/stars/Arcaeon-io/arcaeon-audit?style=social&color=white)](https://github.com/Arcaeon-io/arcaeon-audit/stargazers)
     - *Tamper-evident, audit-ready logs for AI agents.* Wraps `arcaeon-ledger` with event vocabulary and regulator-ready export bundles for EU AI Act Article 12, with hash-chained records and external witness anchoring for truncation detection.
-16. **[AIAuditLog](https://github.com/sekacorn/AIAuditLog)** [![GitHub stars](https://img.shields.io/github/stars/sekacorn/AIAuditLog?style=social&color=white)](https://github.com/sekacorn/AIAuditLog/stargazers)
+16. **[AIAuditLog](https://github.com/sekacorn/AIAuditLog)** [![GitHub_Stars](https://img.shields.io/github/stars/sekacorn/AIAuditLog?style=social&color=white)](https://github.com/sekacorn/AIAuditLog/stargazers)
     - *Versioned JSON event envelope and schema export for AI audit logging.* Features typed models for models, agents, tools, and benchmarks; RFC 8785 canonical JSON; SHA-256 digests; checkpoints with Ed25519 signatures; and deterministic redaction.
-17. **[Merkle-Audit](https://github.com/maco144/merkle-audit)** [![GitHub stars](https://img.shields.io/github/stars/maco144/merkle-audit?style=social&color=white)](https://github.com/maco144/merkle-audit/stargazers)
+17. **[Merkle-Audit](https://github.com/maco144/merkle-audit)** [![GitHub_Stars](https://img.shields.io/github/stars/maco144/merkle-audit?style=social&color=white)](https://github.com/maco144/merkle-audit/stargazers)
     - *Tamper-evident audit logging for AI agent tool calls.* Uses simplified Merkle Mountain Ranges (MMR) and SQLite persistence to commit every action to an append-only hash chain, invalidating subsequent entries if historical records are modified.
-18. **[SealVera](https://github.com/sealvera/sealvera-python)** [![GitHub stars](https://img.shields.io/github/stars/sealvera/sealvera-python?style=social&color=white)](https://github.com/sealvera/sealvera-python/stargazers)
+18. **[SealVera](https://github.com/sealvera/sealvera-python)** [![GitHub_Stars](https://img.shields.io/github/stars/sealvera/sealvera-python?style=social&color=white)](https://github.com/sealvera/sealvera-python/stargazers)
     - *Python SDK for tamper-evident audit trails for AI agents.* Two-line integration providing cryptographically sealed, immutable decision logs capturing prompts, outputs, reasoning, confidence scores, and drift detection with zero hard dependencies.
-19. **[Aegis Workbench](https://github.com/sanjaynandanj/aegis)** [![GitHub stars](https://img.shields.io/github/stars/sanjaynandanj/aegis?style=social&color=white)](https://github.com/sanjaynandanj/aegis/stargazers)
+19. **[Aegis Workbench](https://github.com/sanjaynandanj/aegis)** [![GitHub_Stars](https://img.shields.io/github/stars/sanjaynandanj/aegis?style=social&color=white)](https://github.com/sanjaynandanj/aegis/stargazers)
     - *Enterprise AI governance workbench for EU AI Act and NIST AI RMF (Apache-2.0).* Evaluates policy-as-code, auto-generates model cards and Annex IV technical documentation, and writes state changes to an Ed25519-signed append-only ledger.
 
 ---
@@ -191,7 +191,7 @@ We welcome contributions from compliance officers, security researchers, and AI 
 1. Fork this repository.
 2. Add your SaaS product or open-source project to `README.md` following the existing format.
    - For SaaS: include pricing, free tier/trial limits, company size, and core audit features.
-   - For Open-Source: add repository link, social star badge, and description.
+   - For Open-Source: add repository link, social Stars_Badge, and description.
 3. Submit a Pull Request with a clear explanation of the platform's verifiable audit capabilities.
 
 For curated lists across other domains, explore the [Awesome Collection](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
